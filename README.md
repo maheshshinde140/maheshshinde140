@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
 <h3 align="center">A passionate computer science student from India</h3>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UEr18d6V6XqxEvhATlIDlbM7V4hctDDpAgno-nM6hQ&s">
 
 - 🌱 I’m currently learning **Mechine learning, Artificial intelligence**
 
